@@ -1,0 +1,52 @@
+[07/01/2023 17:14:09]:New passenger with username admin registered
+[07/01/2023 17:14:17]:Passenger with username admin authenticated
+[07/01/2023 17:15:25]:New passenger with username admin registered
+[07/01/2023 17:15:29]:Passenger with username admin authenticated
+[07/01/2023 17:15:59]:New passenger with username passanger1 registered
+[07/01/2023 17:16:01]:Passenger with username passanger1 authenticated
+[07/01/2023 17:17:24]:Passenger with username admin authenticated
+[07/01/2023 17:18:35]:New schedules added to railway Porto->Braga
+[07/01/2023 17:20:49]:New schedules added to railway Cais o Sodré->Cascais
+[07/01/2023 17:22:50]:New schedules added to railway Guimarães->Felgueiras
+[07/01/2023 17:23:23]:Network suspended
+[07/01/2023 17:23:26]:Network unsuspended
+[07/01/2023 17:27:47]:Passenger with username passenger1 authenticated
+[07/01/2023 17:29:11]:Passenger with username admin authenticated
+[07/01/2023 17:29:50]:Passenger with username passenger1 authenticated
+[07/01/2023 17:30:01]:RailwayPorto->Braga added to passenger passenger1
+[07/01/2023 17:30:07]:RailwayBraga->Porto added to passenger passenger1
+[07/01/2023 17:30:13]:RailwayCais o Sodre->Cascais added to passenger passenger1
+[07/01/2023 17:30:15]:RailwayGuimaraes->Felgueiras added to passenger passenger1
+[07/01/2023 17:30:20]:RailwayBraga->Porto removed from passenger passenger1
+[07/01/2023 17:30:25]:RailwayBraga->Porto added to passenger passenger1
+[07/01/2023 17:30:28]:RailwayCascais->Cais o Sodre added to passenger passenger1
+[07/01/2023 17:30:28]:RailwayCais o Sodre->Cascais removed from passenger passenger1
+[07/01/2023 17:30:29]:RailwayFelgueiras->Guimaraes added to passenger passenger1
+[07/01/2023 17:30:30]:RailwayGuimaraes->Felgueiras removed from passenger passenger1
+[07/01/2023 18:22:24]:New passenger with username passenger2 registered
+[07/01/2023 18:22:27]:Passenger with username passenger2 authenticated
+[07/01/2023 18:23:01]:RailwayCais o Sodre->Cascais added to passenger passenger2
+[07/01/2023 18:23:03]:RailwayGuimaraes->Felgueiras added to passenger passenger2
+[07/01/2023 18:40:10]:Passenger with username admin authenticated
+[07/01/2023 18:40:20]:Passenger with username passenger1 authenticated
+[07/01/2023 18:40:31]:Passenger with username passenger2 authenticated
+[07/01/2023 18:42:44]:New schedules added to railway Aveiro->Bragança
+[07/01/2023 18:44:15]:New schedules added to railway Aveiro->Bragança
+[07/01/2023 18:44:56]:Schedules removed from railway Aveiro->Bragança
+[07/01/2023 18:45:47]:Network suspended
+[07/01/2023 18:46:56]:New report added by passenger1
+[07/01/2023 18:48:25]:RailwayPorto->Braga added to passenger passenger2
+[07/01/2023 18:48:40]:New report added by passenger2
+[07/01/2023 18:53:37]:RailwayBraga->Porto added to passenger passenger2
+[07/01/2023 18:53:39]:RailwayBraga->Porto removed from passenger passenger2
+[07/01/2023 18:53:42]:RailwayAveiro->Bragança added to passenger passenger2
+[16/01/2023 08:42:00]:Passenger with username admin authenticated
+[24/01/2023 09:39:35]:Passenger with username admin authenticated
+[24/01/2023 09:40:29]:Passenger with username passenger1 authenticated
+[24/01/2023 10:05:07]:Passenger with username admin authenticated
+[24/01/2023 10:05:32]:Passenger with username passenger1 authenticated
+[24/01/2023 10:06:03]:Passenger with username passenger2 authenticated
+[24/01/2023 10:23:29]:RailwayPorto->Braga removed from passenger passenger2
+[24/01/2023 10:25:02]:New report added by passenger1
+[24/01/2023 10:25:59]:Passenger with username admin authenticated
+[24/01/2023 10:26:38]:New report added by passenger1
